@@ -24,8 +24,7 @@ ion-content {
 
   ion-grid{
     grid-template-columns: auto auto auto;
-    margin-right: 10px;
-    margin-left: 10px;
+
   }
 
   ion-row{
@@ -42,6 +41,10 @@ ion-content {
     color:black;
     background-color: rgb(170, 170, 170);
     padding: 10px;
+  }
 
+  .produto{
+    font-size: small;
+    font-family:Georgia, 'Times New Roman', Times, serif;
   }
 }
